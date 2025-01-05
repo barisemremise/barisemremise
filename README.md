@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Barış Emre Mişe
 - 👀 I’m interested in software development.
-- 🌱 I’m currently studying computer engineering at Istanbul Technical University.
+- 🌱 I’m a computer engineer graduated at Istanbul Technical University.
 - 📫 You can reach me via e-mail (barisemremise@hotmail.com) or LinkedIn (www.linkedin.com/in/barisemremise/) 
 
 <!---
